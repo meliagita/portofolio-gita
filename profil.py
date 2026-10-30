@@ -35,4 +35,3 @@ def tampilkan():
         "Saya adalah mahasiswa Sistem Informasi yang "
         "sedang belajar mengembangkan kemampuan di bidang teknologi."
     )
-
